@@ -1,5 +1,5 @@
 # 3D-LiDAR
-ECE 445 Senior Design Project
+**ECE 445 Senior Design Project**
 
 Team Members: Xizheng Fang, Terence Lee, Jamie Xu
 
