@@ -3,7 +3,6 @@
 
 ![Animated Model](https://media.giphy.com/media/t0XBKgClR0BUU57slF/giphy.gif)
 
-[![Demo Video]({https://i.imgur.com/VDvuNS2.png})]({https://www.youtube.com/watch?v=dHrQx4oeLag} "ECE 445 Demo")
 [Demo Video](https://www.youtube.com/watch?v=dHrQx4oeLag)
 
 Team Members: Xizheng Fang, Terence Lee, Jamie Xu
