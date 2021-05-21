@@ -1,6 +1,8 @@
 # 3D-LiDAR
 **ECE 445 Senior Design Project**
 
+![Animated Model](https://imgur.com/saDwVYm)
+
 [Demo Video](https://www.youtube.com/watch?v=dHrQx4oeLag)
 
 Team Members: Xizheng Fang, Terence Lee, Jamie Xu
