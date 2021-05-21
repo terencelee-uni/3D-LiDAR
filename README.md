@@ -1,7 +1,7 @@
 # 3D-LiDAR
 **ECE 445 Senior Design Project**
 
-![Animated Model](https://imgur.com/saDwVYm)
+![Animated Model](https://media.giphy.com/media/t0XBKgClR0BUU57slF/giphy.gif)
 
 [Demo Video](https://www.youtube.com/watch?v=dHrQx4oeLag)
 
